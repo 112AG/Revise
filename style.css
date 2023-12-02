@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: rgba(58, 147, 7, 0.971);
+}
+h1{
+    color: rgba(127, 255, 212, 0.697);
+    margin-left: 40%;
+}
+body{
+    background-color: rgba(2, 2, 2, 0.41)
+}
