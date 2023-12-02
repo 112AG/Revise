@@ -1,2 +1,2 @@
 # Revise
-This is a Revise for GitHut Platform.
+This is a Revise for GitHut Platform.Hi!
