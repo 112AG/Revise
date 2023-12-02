@@ -1,5 +1,5 @@
 # Revise
-This is a Revise for GitHut Platform.Hi!
+This is a Revise of GitHub Platform.Hi!
 
 # Practice
 Learn to attch from git to Local System.
